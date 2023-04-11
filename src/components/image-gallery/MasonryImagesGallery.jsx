@@ -20,7 +20,6 @@ const MasonryImagesGallery = () => {
                     )) 
                 }
             </Masonry>
-
         </ResponsiveMasonry>
     )
 }
